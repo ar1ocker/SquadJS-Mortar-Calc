@@ -52,3 +52,5 @@ E5 - центр квадрата 300 метров
 <img width="526" height="123" alt="изображение" src="https://github.com/user-attachments/assets/1242eb1e-d96c-4ebc-a7bf-0f870846b43e" />
 
 Плагин **mortarCalcService.js** это API на express, которое позволяет использовать внешние программы для считывания координат с экрана игрока и отправки их на сервер для расчёта и варна
+
+[https://github.com/ar1ocker/SquadJS-Marker-Calc](https://github.com/ar1ocker/SquadJS-Marker-Calc) - приложение для windows которое использует **mortarCalcService.js**
